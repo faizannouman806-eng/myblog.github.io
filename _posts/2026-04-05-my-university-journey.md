@@ -11,6 +11,8 @@ tags: [computer engineering, university life, programming, hostel life, cricket,
 Hello, I’m **Faizan Nouman** 👋  
 This blog post reflects my beautiful journey as a **Computer Engineering student**, covering my memorable experiences from the **first day at university to my second semester**.
 
+![University Journey Image](/assets/images_11zon.jpg)
+
 ---
 
 ## 1. First Day at University
@@ -18,6 +20,8 @@ This blog post reflects my beautiful journey as a **Computer Engineering student
 My first day at university was full of happiness and excitement. As a student of **Computer Engineering**, everything felt new and interesting.
 
 Our classes were being held in the **Electrical Department**, which made things a bit confusing for me on the first day.
+
+![University Journey Image](/assets/images%20(1)_11zon.jpg)
 
 When I reached the department, I found it difficult to locate my classroom. I felt a bit lost, but then I asked a senior student for help. He kindly guided me to the correct class, and that small act made me feel more comfortable in the new environment.
 
@@ -73,6 +77,8 @@ After the NETS exams, our university’s **Departmental Cricket League** began.
 
 As someone passionate about cricket, I participated as a **bowler**.
 
+![University Journey Image](/assets/WhatsApp%20Image%202026-04-05%20at%2010.31.53%20PM_11zon.jpg)
+
 In my first match, I performed very well and helped our department secure a win.
 
 Our team continued to perform brilliantly and successfully reached the **final**.
@@ -88,6 +94,8 @@ This experience taught me the importance of **teamwork, leadership, and balancin
 ## 5. Machine Learning Project – Overcoming Challenges
 
 During our programming course, our instructor assigned us a **Machine Learning project**.
+
+![University Journey Image](/assets/images_11zon%20(1).jpg)
 
 He guided us throughout the process, which made the project much easier to complete.
 
@@ -125,6 +133,8 @@ It was my first time living away from home.
 
 Initially, I felt nervous, but gradually I learned how to manage everything on my own.
 
+![University Journey Image](/assets/WhatsApp%20Image%202026-04-05%20at%2010.31.57%20PM_11zon.jpg)
+
 Hostel life taught me:
 
 - **Time management**
@@ -141,6 +151,8 @@ Late-night study sessions, birthday celebrations, and shared meals made hostel l
 ## 8. Welcome Party – A Warm Start to University Life
 
 One of the most exciting moments of my first semester was the **welcome party** organized for new students.
+
+![University Journey Image](/assets/images%20(2)_11zon.jpg)
 
 The hall was beautifully decorated with lights and banners.
 
