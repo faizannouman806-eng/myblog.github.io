@@ -1,3 +1,10 @@
+---
+title: "My Programming Fundamentals Journey with Dr. Bilal"
+date: 2026-06-25
+categories: programming
+tags: [programming, university]
+---
+
 # My Programming Fundamentals Journey with Dr. Bilal
 
 ## Introduction
