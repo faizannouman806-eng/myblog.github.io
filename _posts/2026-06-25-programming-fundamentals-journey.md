@@ -84,3 +84,25 @@ The course helped me develop a logical mindset and prepared me for future techni
 My Programming Fundamentals journey with Dr. Bilal was an unforgettable learning experience. The course transformed me from a beginner with little programming knowledge into a student capable of writing programs, solving problems, and thinking logically. Through topics such as algorithms, variables, data types, operators, conditional statements, loops, functions, and arrays, I gained a strong foundation in programming.
 
 I am grateful to Dr. Bilal for his dedication, guidance, and encouragement throughout the course. His teaching helped me build confidence in my abilities and motivated me to pursue further learning in the field of computer engineering. This journey has been the first step toward becoming a skilled programmer and engineer, and I look forward to applying these skills in future academic and professional projects.
+
+
+### LinkedIn
+
+https://www.linkedin.com/in/drbilalphd/
+
+### Google Scholar
+
+https://scholar.google.com.au/citations?user=8nZ0jVkAAAAJ&hl=en
+
+### Facebook
+
+https://www.facebook.com/Dr.BilalAhm
+
+## Hashtags
+
+#MLwithDrBilalAhmad
+
+#DrBilalAhmad
+
+#MLProject
+
